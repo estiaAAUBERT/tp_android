@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="liste_des_voisins">List of neighbors</string>
+    <string name="nouveau_voisin">New Neighbor</string>
+    <string name="avatarurl">Avatar link</string>
+    <string name="telephone">Phone</string>
+    <string name="webste">Website link</string>
+    <string name="adresse">Address</string>
+    <string name="aboutme">About Me</string>
+    <string name="enregistrer">Register</string>
+    <string name="deletedialogtitle">Confirmation message</string>
+    <string name="deletedialogmessage">Do you really want to delete this neighbor?</string>
+    <string name="toasttextadd">Please fill out all fields</string>
+    <string name="toasttextadded">New neighbor added</string>
+    <string name="name">Name</string>
+    <string name="error_aboutme">Number of characters limited to 30</string>
+    <string name="error_phone">Please enter a correct phone number format</string>
+    <string name="error_website">Please enter a correct URL</string>
+</resources>

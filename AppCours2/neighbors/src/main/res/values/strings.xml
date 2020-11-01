@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="liste_des_voisins">Liste des voisins</string>
+    <string name="nouveau_voisin">Nouveau voisin</string>
+    <string name="avatarurl">Lien Avatar</string>
+    <string name="telephone">Téléphone</string>
+    <string name="webste">Website link</string>
+    <string name="adresse">Adresse</string>
+    <string name="aboutme">A propos de moi</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="deletedialogtitle">Message de confirmation</string>
+    <string name="deletedialogmessage">Voulez-vous vraiment supprimer ce voisin ?</string>
+    <string name="toasttextadd">Veuillez remplir tous les champs</string>
+    <string name="toasttextadded">Nouveau voisin ajouté</string>
+    <string name="name">Nom</string>
+    <string name="error_phone">Veuillez rentrer un format de numéro correct</string>
+    <string name="error_website">Veuillez rentrer un URL correct</string>
+    <string name="error_aboutme">Nombre de caractères limités à 30</string>
+</resources>

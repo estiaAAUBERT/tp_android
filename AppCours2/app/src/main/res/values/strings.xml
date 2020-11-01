@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCours2</string>
+    <string name="btn">Button</string>
+    <string name="message">Print my name</string>
+</resources>
